@@ -41,4 +41,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Screenshot & Link
 https://drive.google.com/drive/folders/1uW527mUhryjl-a9bDRPyYedwctC1axLj?usp=sharing
 
+
 ![Capture](https://github.com/SlayerK2024/SvgOOP/assets/157855730/7ea0a083-105d-4fa9-89c9-149e4c8de451)
+[SVGLOGO.webm](https://github.com/SlayerK2024/SvgOOP/assets/157855730/70f5478f-7c88-4ac0-a5ed-ff2d54a73a58)
+
+
