@@ -39,4 +39,6 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Screenshot & Link
+https://drive.google.com/drive/folders/1uW527mUhryjl-a9bDRPyYedwctC1axLj?usp=sharing
+
 ![Capture](https://github.com/SlayerK2024/SvgOOP/assets/157855730/7ea0a083-105d-4fa9-89c9-149e4c8de451)
